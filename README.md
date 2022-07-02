@@ -7,3 +7,4 @@
 6) give this value to your channel:
   YourWebServerIP/SkypeNotifier/<your_group_name>
 7) Done
+8) If you want to include the image as well, you need to first config the external data storage in your Grafana config file and then add the image_url key from response to your message. Also, you need to check the 'include image' option in your Grafana alert channel
